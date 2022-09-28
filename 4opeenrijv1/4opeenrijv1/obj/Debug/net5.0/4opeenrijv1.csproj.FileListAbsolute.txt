@@ -1,0 +1,44 @@
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.exe
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.deps.json
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.runtimeconfig.json
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.runtimeconfig.dev.json
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\ref\4opeenrijv1.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.pdb
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.csproj.AssemblyReference.cache
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.AssemblyInfoInputs.cache
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.AssemblyInfo.cs
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.csproj.CoreCompileInputs.cache
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\ref\4opeenrijv1.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.pdb
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.genruntimeconfig.cache
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.exe
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.deps.json
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.runtimeconfig.json
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.runtimeconfig.dev.json
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\ref\4opeenrijv1.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\4opeenrijv1.pdb
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.csproj.AssemblyReference.cache
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.AssemblyInfoInputs.cache
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.AssemblyInfo.cs
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.csproj.CoreCompileInputs.cache
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\ref\4opeenrijv1.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.pdb
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\obj\Debug\net5.0\4opeenrijv1.genruntimeconfig.cache
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\helde\codes en projecten\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\manon\Documents\HBO-ICT\Bridging course\casus\production\4opeenrijv1\4opeenrijv1\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

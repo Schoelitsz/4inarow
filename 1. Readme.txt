@@ -1,0 +1,20 @@
+READ ME.
+
+Voor het spel zijn er twee programma's nodig.
+Microsoft visual studio, tenminste de 2019 versie.
+Microsoft SQL Mamanement studio en SQL server.
+
+
+De code opstarten:
+1. Open Visual studio en kies "open a local folder"
+2. Kies de code in de map en open.
+3. Navigeer binnen de code naar tab "Speler"
+4. Navigeer naar methode Maakspeler()
+5. Verander de servernaam bij connectionstring naar de servernaam van uw eigen server.
+6. Herhaal stap 5 bij methode Kiesspeler, en in de tab Resultaat bij
+WinnaarOpslaan(), VerliezerOpslaan(),GelijkspelOpslaan(speler1), GelijkspelOpslaan(speler2)
+
+Database opstarten.
+1. Start the database en connect met de server.
+2. Volg de stappen in het word bestand: SQL query's voor database.docx
+
